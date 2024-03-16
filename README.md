@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=HELLO%PIPANYWHERE!%!&fontAlign=40&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=HELLO%PIPANYWHERE!&fontAlign=50&fontAlignY=40&color=gradient)
 
 ### 유니티 개발 공부 중! C# 유니티로 시작해서 C++ 언리얼 마스터까지 👋
 
