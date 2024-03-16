@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HELLO%SUAN&fontSize=90)
 
 ### 유니티 개발 공부 중! C# 유니티로 시작해서 C++ 언리얼 마스터까지 👋
 
